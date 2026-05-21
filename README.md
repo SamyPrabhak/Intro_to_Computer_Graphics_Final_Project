@@ -93,5 +93,8 @@ All artwork hand-illustrated using:
 
 - Illustrations: Hand-drawn original artwork
 - 3D Engine: [Three.js](https://threejs.org/)
-- **Animation Library:** [Tween.js](https://github.com/tweenjs/tween.js/)
-- **Inspiration:** Traditional tarot aesthetics with digital enhancement
+- Animation Library: [Tween.js](https://github.com/tweenjs/tween.js/)
+- Inspiration: Traditional tarot aesthetics with digital enhancement
+
+## Video Demo 
+- https://drive.google.com/file/d/1zfAeWZ1tI4iQY7ESBawIUJ_LMFCBkxbO/view?usp=sharing
